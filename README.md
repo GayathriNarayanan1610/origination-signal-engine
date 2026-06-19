@@ -6,6 +6,8 @@
 
 ## Demo
 `python -m app.run` prints the digest; `uvicorn app.main:app` serves `GET /digest`.
+<img width="1445" height="821" alt="image" src="https://github.com/user-attachments/assets/3e5307f1-2b4d-43d5-9586-5912ae3640ee" />
+
 
 ## How the team would use it
 A morning digest of which targets moved (funding, leadership change, hiring, M&A),
