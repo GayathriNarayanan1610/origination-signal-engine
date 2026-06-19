@@ -2,7 +2,7 @@
 
 > Watches a list of target companies, scores their latest signals against the
 > investment thesis, and produces a ranked daily digest plus a draft outreach
-> email for the hottest name — so origination follow-up is automated, not manual.
+> email for the hottest name - so origination follow-up is automated, not manual.
 
 ## Demo
 `python -m app.run` prints the digest; `uvicorn app.main:app` serves `GET /digest`.
